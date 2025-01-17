@@ -228,6 +228,12 @@ align-items: center;
         margin-top: 20px;
         margin-left: 20px;
     }
+
+    .footer{
+        text-align: center;
+        padding: 39px 0;
+        border-radius: 8px;
+    }
 }
 
 /* Medium size device */
@@ -250,4 +256,10 @@ align-items: center;
         margin-top: 20px;
         margin-left: 20px;
     } 
+
+    .footer{
+        text-align: center;
+        padding: 39px 0;
+        border-radius: 8px;
+    }
 }
